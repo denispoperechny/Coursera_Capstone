@@ -1,0 +1,23 @@
+Client Id
+SBPPJXXVK3DNXUMMAEXGNQ5DRZDY5DAPBQB5RS3VDEVBIYAD
+
+Client Secret
+VD4P01B1EGYSIV3W5ICNTCRO1XQAABP0G1X4FZ0BNXDXK
+
+
+
+https://api.foursquare.com/v2/[venues,users,tips]/search?a=a
+&ll=40.73,-74.01&query=coffee
+&client_id=***&client_secret=***&v=20180602
+
+https://api.foursquare.com/v2/venues/{id}/tips?...
+
+
+https://api.foursquare.com/v2/venues/[explore, trending]?a=a
+&ll=40.73,-74.01
+
+
+
+Notebook
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DS0701EN/DS0701EN-2-2-1-Foursquare-API-py-v2.0.ipynb?lti=true
+(over dock origin)
