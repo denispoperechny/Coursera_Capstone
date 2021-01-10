@@ -1,0 +1,19 @@
+https://www.coursera.org/learn/applied-data-science-capstone/home/week/4
+https://www.coursera.org/learn/applied-data-science-capstone/home/week/5
+
+Target - Jan 24, 10+20 hrs
+
+Sections:
+Define a problem for your capstone project where Fourswuare data will be helpfull, define audience (users group, stakehlders).
+Finding the data that you will use for the capstone project (Foursquare with optional additional data, describe its content and use).
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+Results section where you discuss the results.
+Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+Conclusion section where you conclude the report.
+
+
+Examples:
+Report: https://cocl.us/coursera_capstone_report
+Notebook: https://cocl.us/coursera_capstone_notebook
+Presentation: https://cocl.us/coursera_capstone_presentation
+Blogpost: https://cocl.us/coursera_capstone_blogpost
