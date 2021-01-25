@@ -34,7 +34,7 @@ Also we can see how many places were found for each neighbourhood (I used the li
 
 ![image](pics/venues-counts-bar-3.png)
 
-As a data cleaning here I also decided to bucket categories into more generic groups so that categories like 'Acehnese Restaurant' or 'Balinese Restaurant' will now fall into a single bucket of 'Indonesian Restaurant'. So that it rediced the number of unique categories from __ to __ across total __ number of venues.
+As a data cleaning here I also decided to bucket categories into more generic groups so that categories like 'Acehnese Restaurant' or 'Balinese Restaurant' will now fall into a single bucket of 'Indonesian Restaurant'. So that it rediced the number of unique categories from 331 to 208 across total 3747 number of venues.
 
 Now we need to identify the profile of each neighborhood. For this we're making the one-hot encoding for venue categories and perform mean aggregation within neighbourhood which gives us the scaled frequency of how often each category of venues are present in each of them.
 
