@@ -1,3 +1,7 @@
+
+# Project: Open a bakery on Manhattan
+
+
 ## Background
 
 New York is a big city and gives a lot of opportunities for different kinds of businesses, but learning of the existing market is one of key inputs to plan a successful one. Here I will be building the solution which will help a potential investor or business owner to make the judgment about finding a good spot stop for opening a new place in the city.
